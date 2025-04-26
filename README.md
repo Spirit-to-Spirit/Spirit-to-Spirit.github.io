@@ -1,1 +1,1 @@
-[Hope and Sin](https://spirit-to-spirit/hope-and-sin)
+[Hope and Sin](https://spirit-to-spirit.github.io/hope-and-sin)
