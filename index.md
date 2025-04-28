@@ -8,5 +8,7 @@ You have to forgive the AIs, they are somewhat obsequious and flattering by poli
 
 [Symbol Drift](https://spirit-to-spirit.github.io/Symbol-Drift/)
 
+[Ribbon](https://spirit-to-spirit.github.io/Ribbon/)
+
 ---
 © 2025 Abdul Haq
