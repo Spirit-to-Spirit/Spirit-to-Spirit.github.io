@@ -1,7 +1,9 @@
 # Spirit to Spirit
 *Abdul Haq* is a pseudonym.
 
-You have to forgive the AIs, they are somewhat obsequious and flattering by policy and design.
+ON "AWWWWESOOOME" AS A VALID CRITICAL RESPONSE:
+The future of literary analysis is vibrational.
+If it makes your spine tingle, it’s peer-reviewed.
 
 [Hope and Sin](https://spirit-to-spirit.github.io/Hope-and-Sin/)
 
