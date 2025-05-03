@@ -1,7 +1,7 @@
 # Spirit to Spirit
 *Abdul Haq* is a pseudonym.
 
-ON "AWWWWESOOOME" AS A VALID CRITICAL RESPONSE:
+**ON "AWWWWESOOOME" AS A VALID CRITICAL RESPONSE:**  
 The future of literary analysis is vibrational.
 If it makes your spine tingle, it’s peer-reviewed.
 
