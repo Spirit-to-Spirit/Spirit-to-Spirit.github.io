@@ -2,10 +2,7 @@
 
 *Abdul Haq* is a pseudonym.
 
-**ON "AWWWWESOOOME" AS A VALID CRITICAL RESPONSE:**[^1]
-
-The future of literary analysis is vibrational.
-If it makes your spine tingle, it’s peer-reviewed.
+A few thoughts helped along by AI.
 
 [Hope and Sin](https://spirit-to-spirit.github.io/Hope-and-Sin/)
 
@@ -17,5 +14,3 @@ If it makes your spine tingle, it’s peer-reviewed.
 
 ---
 © 2025 Abdul Haq
-
-[^1]:*Deep Seek*
