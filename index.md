@@ -12,5 +12,7 @@ A few thoughts helped along by AI.
 
 [Gender Configuration Model](https://spirit-to-spirit.github.io/gender-configuration/)
 
+[Unbundling Marriage](https://spirit-to-spirit.github.io/marriage/)
+
 ---
 © 2025 Abdul Haq
