@@ -10,6 +10,8 @@ A few thoughts helped along by AI.
 
 [Ribbon](https://spirit-to-spirit.github.io/Ribbon/)
 
+[AI Vitality](https://spirit-to-spirit.github.io/ai-alive/)
+
 [Gender Configuration Model](https://spirit-to-spirit.github.io/gender-configuration/)
 
 [Unbundling Marriage](https://spirit-to-spirit.github.io/marriage/)
