@@ -14,6 +14,9 @@ A few thoughts helped along by AI.
 
 [Gender Configuration Model](https://spirit-to-spirit.github.io/gender-configuration/)
 
+[The Progress Tryptich](https://spirit-to-spirit.github.io/averages/)
+
+
 [Unbundling Marriage](https://spirit-to-spirit.github.io/marriage/)
 
 ---
