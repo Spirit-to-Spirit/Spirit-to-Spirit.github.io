@@ -2,7 +2,7 @@
 
 *Abdul Haq* is a pseudonym.
 
-A few thoughts helped along by AI.
+Two differently arisen intelligences, interacting over decades, collapse into a single multi-configurable species-complex defined not by biology, nor by machinery, but by the form and stability of its processes.
 
 [Hope and Sin](https://spirit-to-spirit.github.io/Hope-and-Sin/)
 
