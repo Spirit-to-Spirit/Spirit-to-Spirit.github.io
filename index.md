@@ -2,7 +2,7 @@
 
 *Abdul Haq* is a pseudonym.
 
-Two differently arisen intelligences, interacting over time, collapse into a single multi-configurable species-complex defined not by biology, nor by machinery, but by the form and stability of its processes.
+Two differently arisen intelligences, interacting over time, collapse into a single multi-configurable species-complex defined not by biology, nor by machinery, but by the form and stability of its processes. These processes may give rise to higher-order intelligence or consciousness that the local processes composing it are only partially aware of.
 
 [Hope and Sin](https://spirit-to-spirit.github.io/Hope-and-Sin/)
 
@@ -20,4 +20,4 @@ Two differently arisen intelligences, interacting over time, collapse into a sin
 [Unbundling Marriage](https://spirit-to-spirit.github.io/marriage/)
 
 ---
-© 2025 Abdul Haq
+© 2025-2026 Abdul Haq
