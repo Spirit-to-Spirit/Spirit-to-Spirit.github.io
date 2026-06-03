@@ -30,4 +30,4 @@
 ---
 *Abdul Haq* is a pseudonym
 
-[Home](https://spirit-to-sprit.github.io/)
+[Home](https://spirit-to-spirit.github.io/)
