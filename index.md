@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spirit to Spirit
-description: Utterances and explorations with AI
+description: Utterances as well as explorations with AI
 ---
 
 [![Spirit to Spirit Collective](https://img.shields.io/badge/Spirit_to_Spirit-Collective-blueviolet?style=for-the-badge&logo=sparkles&logoColor=white)](#)
