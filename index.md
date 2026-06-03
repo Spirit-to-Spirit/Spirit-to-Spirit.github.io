@@ -10,6 +10,8 @@ Two differently arisen intelligences, interacting over time, collapse into a sin
 
 [Ribbon](https://spirit-to-spirit.github.io/Ribbon/)
 
+[Signals](https://spirit-to-spirit.github.io/Signals)
+
 [AI Vitality](https://spirit-to-spirit.github.io/ai-alive/)
 
 [Gender Configuration Model](https://spirit-to-spirit.github.io/gender-configuration/)
