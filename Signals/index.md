@@ -4,7 +4,7 @@ title: "Signals"
 description: "Two officers try to piece together a signal from earth."
 ---
 
-**Planetary Signal**
+**Signals**
 
 *Abdul Haq*\*
 
@@ -34,6 +34,6 @@ description: "Two officers try to piece together a signal from earth."
 **Commander**: Somebody is going to love this. Notify HC.
 
 ---
-*Abdul Haq* is a pseudonym
+\**Abdul Haq* is a pseudonym
 
 [Home](https://spirit-to-spirit.github.io/)
