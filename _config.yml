@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+url: "https://spirit-to-spirit.github.io"
+plugins:
+  - jekyll-sitemap
