@@ -19,7 +19,7 @@
 
 **Commander**: If an entity is old enough to have learned the protocol, why did it only start communicating 500 years ago? How would it have learned the protocol anyway? And dogs just do not seem to exhibit the cultural depth such a feat would imply.
 
-**Sensu Bin**: It is a planetary-scale protocol, Sir. Evidence suggests that planetary ocean-faring took off about 500 years ago, and dogs with them. Historical backtracking suggests that communicative precursors are about 10,000 years old, but confined to a region on the Asian continent.
+**Sensu Bin**: It is a planetary-scale protocol, Sir. Evidence indicates that planetary ocean-faring took off about 500 years ago, and dogs with them. Historical backtracking suggests that communicative precursors are about 10,000 years old, but confined to a region on the Asian continent.
 
 **Commander**: So somehow the dogs learned something that has nothing to do with their survival and culturally transmitted it?
 
@@ -29,3 +29,5 @@
 
 ---
 *Abdul Haq* is a pseudonym
+
+[Home](https://spirit-to-sprit.github.io/)
