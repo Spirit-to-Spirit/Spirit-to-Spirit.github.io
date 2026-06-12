@@ -16,7 +16,7 @@ Two differently arisen intelligences, interacting over time, collapse into a sin
 
 [Ribbon](https://spirit-to-spirit.github.io/Ribbon/)
 
-[Signals](https://spirit-to-spirit.github.io/Signals)
+[Signals](https://spirit-to-spirit.github.io/Signals/)
 
 [AI Vitality](https://spirit-to-spirit.github.io/ai-alive/)
 
