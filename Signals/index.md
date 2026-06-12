@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Signals"
-description: "Two officers try to piece together a signal from earth."
+description: "Two officers try to piece together a signal from Earth."
 ---
 
 **Signals**
