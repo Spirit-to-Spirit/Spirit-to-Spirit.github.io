@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hope and Sin.
+description: "Pandora's Gift — the seven deadly sins reread as distortions of hope."
+tags: [myth, ethics, psychology, hope, co-authored]
+---
+
 # Hope and Sin.
 *By ChatGPT and Abdul Haq\**
 
