@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Signals"
-description: "Two officers try to piece together a signal from Earth."
+title: Signals
+description: "Two officers decode a signal from earth. A companion piece to Symbol Drift."
+tags: [fiction, dialogue, military, contact, communication, co-authored]
 ---
 
 **Signals**
