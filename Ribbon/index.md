@@ -1,3 +1,10 @@
+---
+layout: default
+title: Ribbon
+description: "A thought experiment about the limits of local knowledge — and what gluing reveals."
+tags: [epistemology, thought-experiment, limits-of-knowledge, AI-response, philosophy]
+---
+
 # Ribbon  
 *Abdul Haq\**
 
