@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Progress Triptych
+description: "On absolute numbers, the tyranny of the average, and what genuine progress would require."
+tags: [statistics, poverty, ethics, design, critique, essay, co-authored]
+---
 
 # The Progress Triptych
 
