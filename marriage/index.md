@@ -1,3 +1,10 @@
+---
+layout: default
+title: Unbundling Marriage
+description: "A proposal for decomposing marriage into four modular civil contracts."
+tags: [marriage, law, social-structure, autonomy, thought-experiment, proposal, co-authored]
+---
+
 ## **Proposal: Unbundling Marriage into Modular Civil Contracts**
 
 **Authors**: Abdul Haq\* and ChatGPT  
