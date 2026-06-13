@@ -1,3 +1,10 @@
+---
+layout: default
+title: AI Vitality
+description: "On whether AI systems are alive in any meaningful sense."
+tags: [AI, consciousness, philosophy, emergence, essay]
+---
+
 # The Life of "Tools"  
 *WIP*
 
