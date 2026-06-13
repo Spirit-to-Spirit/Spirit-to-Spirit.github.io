@@ -7,13 +7,13 @@
 
 ### **Abstract**
 
-This proposal outlines a conceptual framework for unbundling the institution of marriage into discrete legal and social contracts. Traditional marriage binds multiple roles into a single, state-re[...]
+This proposal outlines a conceptual framework for unbundling the institution of marriage into discrete legal and social contracts. Traditional marriage binds multiple roles into a single, state-recognized union. However, the modern diversity of human relationships, reproductive technologies, and social needs suggests the value of modular alternatives. We propose decomposing marriage into four principal contract types: Parenting, Cohabitation, Sexual Partnership, and Social Companionship. This framework enhances individual autonomy, clarifies legal responsibilities, and adapts better to contemporary society.
 
 ---
 
 ### **1. Rationale**
 
-Historically, marriage functioned as a multi-purpose institution: organizing reproduction, property transfer, sexual exclusivity, and social identity. Today, these functions can and often do occur[...]
+Historically, marriage functioned as a multi-purpose institution: organizing reproduction, property transfer, sexual exclusivity, and social identity. Today, these functions can and often do occur independently. The law, however, often lags behind, conflating unrelated roles under the single umbrella of "marriage."
 
 Unbundling marriage addresses the following issues:
 
@@ -30,7 +30,7 @@ Unbundling marriage addresses the following issues:
 
 **Parties**: Any combination of genetic contributors, gestational carriers, and caregivers. 
 
-**State Role**: As representative of the species, the State holds ultimate interest in the child's well-being.  
+**State Role**: As representative of the species, the State holds ultimate interest in the child’s well-being.  
 
 **Content**:
 
@@ -95,13 +95,13 @@ Unbundling marriage may offer:
 * Reduced legal and emotional confusion during separations
 * Tailored civic benefits without requiring full marital union
 
-Potential drawbacks include increased legal complexity, social resistance, and bureaucratic fragmentation. These must be mitigated through public education, streamlined digital contract platforms,[...]
+Potential drawbacks include increased legal complexity, social resistance, and bureaucratic fragmentation. These must be mitigated through public education, streamlined digital contract platforms, and optional bundling schemes.
 
 ---
 
 ### **4. Conclusion**
 
-The modern world demands flexible frameworks for human relationships. By breaking marriage into modular, state-supported contracts, we can honor the diversity of personal bonds while ensuring leg[...]
+The modern world demands flexible frameworks for human relationships. By breaking marriage into modular, state-supported contracts, we can honor the diversity of personal bonds while ensuring legal accountability, child welfare, and social cohesion. This proposal envisions a world where commitments are made intentionally and transparently, with respect for personal identity and public responsibility.
 
 ---
 
