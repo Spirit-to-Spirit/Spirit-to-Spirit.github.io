@@ -44,7 +44,7 @@ This framework accommodates variation across biological and cultural contexts, w
 
 **4. Implications and Extensions**
 
-This model is intentionally minimal. In reality, further axes may include:
+This model is intentionally minimal. We assumed two or three discrete values for the axes. In reality, the values may be continuous and time-varying along with further axes which may include:
 
 * Hormonal profiles (Zitzmann, 2009)
 * Reproductive capacity or function (Herlihy et al., 2022)
