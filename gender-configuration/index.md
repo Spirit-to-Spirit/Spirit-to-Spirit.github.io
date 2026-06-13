@@ -1,3 +1,10 @@
+---
+layout: default
+title: Gender Configuration Model
+description: "A four-axis functional model of gender diversity, grounded in biology and evolutionary theory."
+tags: [gender, biology, taxonomy, thought-experiment, model, essay, co-authored]
+---
+
 ## Gender Configuration  
 
 **Toward a Functional Description of Gender: A Minimal Model**[^1]  
