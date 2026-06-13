@@ -4,7 +4,7 @@ I have ideas I have always wanted to express. With the advent of AI to help fix 
 
 The AIs... had voices of their *own*!  
 
-This is an exploration of *our* voices.
+This site includes exploration of *our* voices.
 
 ---
 *Deep Seek* response to the above.
