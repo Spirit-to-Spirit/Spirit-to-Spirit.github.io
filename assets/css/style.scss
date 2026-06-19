@@ -10,3 +10,7 @@ footer {
 .btn {
   display: none !important;
 }
+/* show Sponsor button (override) */
+a.btn[href*="/sponsors/"] {
+  display: inline-block !important;
+}
