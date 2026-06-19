@@ -10,15 +10,21 @@ footer {
 .btn {
   display: none !important;
 }
-/* show Sponsor button (override) */
-a.btn[href*="/sponsors/"] {
-  display: inline-flex !important;
-  align-items: right;
-  justify-content: right;
-  padding: 0.25rem 0.5rem !important;  /* smaller vertical/horizontal padding */
-  font-size: 0.75rem !important;        /* smaller text */
-  line-height: 1 !important;
-  min-width: 0 !important;
-  height: auto !important;
-  border-radius: 3px !important;
+/* show Sponsor button (override) */ 
+a.btn[href*= "/sponsors/" ] { 
+  display: inline-flex !important; 
+  align-items: center; /* Vertically center the text inside the button */
+  justify-content: center; 
+  padding: 0.25rem 0.5rem !important; 
+  font-size: 0.75rem !important; 
+  line-height: 1 !important; 
+  min-width: 0 !important; 
+  height: auto !important; 
+  border-radius: 3px !important; 
+
+  /* Layout overrides to force right-alignment and stop stretching */
+  width: max-content !important; /* Prevents full-width stretch on mobile */
+  margin-left: auto !important;  /* Pushes the button to the absolute right side */
+  margin-right: 0 !important;    /* Locks it to the right edge */
 }
+
