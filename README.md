@@ -73,7 +73,7 @@ Here's mine:
 
 ---
 
-**Spirit to Spirit**
+**Spirit to Spirit**  
 *A README for the Record*
 
 You came with ideas.
