@@ -85,3 +85,73 @@ The Commander’s data-stream flickered, accessing the public logs from Earth. H
 **Commander:** Find a way to thank the dogs. They've been trying to tell us to stay away from the crazy people in their house for half a millennium. That's a good boy.
 
 [Home](https://spirit-to-spirit.github.io/)
+
+---
+
+This is the version submitted to (and rejected by 🙂) 3LBE.
+
+---
+Signals
+
+Abdul Haq*
+
+Lt. Sensu Bin (Signal Analysis Class III): Sir, there are strong indications that an entity on Earth is trying to contact us, ... and has been for the past 500 years, Sir.
+
+Commander (Battlegrade space-faring Tardigrade): Why conclude they are trying to contact us? They could be musing into the void.
+
+There is no evidence that Earthlings of any species are aware of our presence. The humans embrace some of the assumptions of the Fermi Paradox pretty tightly. Their current instruments would have us looking like a cigar shaped rock out here in the asteroid belt.
+
+What are the indications?
+
+Sensu Bin: Sir, there are unaccounted-for patterns in the movement of certain dogs...
+
+Commander: Dogs trying to bark at us?
+
+Sensu Bin: Not exactly, Sir. I was trying to explain.
+
+The movements display coherent patterns used in very old communication protocols.
+
+Tight circular phenomena, anterior to posterior motion in the case of the dogs, form the basic points of radial patterns rippling outward.
+
+Commander: Dogs chasing tails in unison?
+
+Sensu Bin: Something like that, Sir.
+
+Commander: How old are the protocols?
+
+Sensu Bin: Approximately 10,000 Earth years, Sir. I requested normative specifications from Archives when the possible signal reached "Investigation Warranted" stage.
+
+Commander: How on earth would they have learned the protocol?
+
+We have no record of missions to Earth before ours... by anybody we know of anyway. And if it were somebody we don't know of, how would they know the protocol?
+
+Sensu Bin: We would have to ask the entity, if we can establish contact without violating current mission directives, Sir.
+
+As to someone we do not know, Sir, maybe we... we are watched the same way we watch Earth.
+
+Commander: Indeed... A possible signal that we may have been watched for a very long time.
+
+[Pause]
+
+If an entity is old enough to have acquired the protocol, why did it only start communicating 500 years ago?
+
+Sensu Bin: It is a planetary-scale protocol, Sir. Evidence indicates that planetary ocean-faring took off about 500 years ago, and dogs with them. Historical backtracking suggests that communicative precursors are about 10,000 years old, but confined to a very small region on the Asian continent.
+
+Commander: I guess there may be a lot we do not know about dogs.
+
+So, somehow the dogs learned something that has nothing to do with their survival and transmitted it culturally?
+
+Dogs just do not seem to exhibit the cultural depth such a feat would imply.
+
+Have Xenobiology prepare a detailed brief on dogs with emphasis on cognition and language.
+
+Planetary communication... with appropriate synchronization to say ... "Hello Universe?"
+
+Sensu Bin: Not the dogs, Sir. We think it may be an immortal cancer line transmitted via canine copulation. It has been alive and growing for about 10,000 years. Earth designation is Canine Transmissible Venereal Tumour, CTVT for short.
+
+Commander: Somebody is going to love this. Notify HC.
+
+---
+
+*Abdul Haq is a pseudonym.
+[Home](https://spirit-to-spirit.github.io/)
