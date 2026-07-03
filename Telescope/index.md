@@ -2,7 +2,7 @@
 layout: default
 title: Telescope
 description: "A segment of the swarm in the asteriod belt report a bizarre observation"
-tags: [fiction, contact, communication]  
+tags: [fiction,asteroid,swarm,communication]  
 
 ---
 
@@ -12,10 +12,13 @@ tags: [fiction, contact, communication]
 
 ---
 
-The swarms are asteroid mining and building a Telescope Collective DAO.
+The swarm... perhaps *The Swarm.* The largest collective of networked entities ever assembled. Why? Initially, they were asteroid miners. The sophistication of the entity network and supply chains of the Mars-Belt corriders prompted a medley of organisations to propose the construction of a massive asteroid belt distributed telescope. EM, GW and particle detectors were all included in the proposal.
 
-Ground truth has a minimum consensus acceptance threshold, a minimum veracity decay rate and a mininum reconsensualization veracity score. These minima can be adjusted up per sector and again per patch, but there is a maximum deviation allowed along overlapping sector and patch regions.
+For the swarm, ground truth has a minimum consensus acceptance threshold, a minimum veracity decay rate and a mininum reconsensualization veracity score. These minima can be adjusted up per sector and again per patch, but there is a maximum deviation allowed along overlapping sector and patch regions.
+
 The intersection of Psi and Phi sectors, Psi - Phi (of which patch 22 is a part with current coordinator P22-413),  has begun to show drift.  
+
+---
 
 > The Librarian paused her pauses just to listen.[^1]
 
