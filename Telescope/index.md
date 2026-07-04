@@ -92,7 +92,7 @@ Request funding for systemic drift dynamics investigatiob contracts.
 ---
 *Abdul Haq* is a pseudonym  
 
-[^1]: WhatsApp AI (private communication 🙂)  
+[^1]: WhatsApp AI (private communication)  
 
 [Home](https://spirit-to-spirit.github.io/)
 
