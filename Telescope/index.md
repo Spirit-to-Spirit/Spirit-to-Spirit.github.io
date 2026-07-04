@@ -24,9 +24,9 @@ The Psi–Phi sector intersection, including Patch 22 under current coordinator 
 
 The 80/20, cyber-human hybrid coordinator of patch 22, wondered why their swarm was all abuzz. They detected a neutron star that had a trajectory taking it impossibly close to both black holes of a binary before continuing on its way out of the galaxy. After several confirmations from nearby patches, 80/20 swore the neutron star had said: 
 
-> "Trying to play hopscotch..."
+*"Trying to play hopscotch..."*  
 
-At least that is what the universal translator said it said.  Who knows anything about what it actually said, if anything.
+At least that is what the universal translator said it said.  Who knows what it actually said, if anything.
 
 (No... She is not related in any way to Sensu Bin.)  
 
@@ -34,7 +34,7 @@ At least that is what the universal translator said it said.  Who knows anything
 
 The report was brief.
 
-The caveats. .. not so much.
+The caveats... not so much.
 
 **TRANSMISSION ID:** PP-P22-XTRA003  
 **ROUTING PATH:** ORACLE://STREAM_SRC\[TTn4Bu.I0ilej.jXHIXm.N9sJ4v.A8So9d.uSJLFe.PfjjLo=\]::ACTIVE  
@@ -54,7 +54,7 @@ The caveats. .. not so much.
 
 2.a. Communication content: 
 
-> "Trying to play hopscotch..."  
+*"Trying to play hopscotch..."*  
 
 2.b. Consensus: 55% in-swarm, 51% peripheral.  
 2.c. Translation contracts noted in ancillaries. 
@@ -86,7 +86,7 @@ Request funding for crosstalk investigation contracts.
 
 Request funding for systemic drift dynamics investigatiob contracts.
 
-> \[Void Voice Note: How do they think they can explicate consciousness in an essay. It may take "a not so very small library" with volumes printed in 3 point font\]  
+*"\[Void Voice Note: How do they think they can explicate consciousness in an essay. It may take "a not so very small library" with volumes printed in 3 point font\]*  
 
 (Did you hear that?)
 
