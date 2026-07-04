@@ -3,7 +3,6 @@ layout: default
 title: Telescope
 description: "A segment of the swarm in the asteriod belt report a bizarre observation"
 tags: [fiction,asteroid,swarm,communication]  
-
 ---
 
 **Telescope**
