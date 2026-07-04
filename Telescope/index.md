@@ -11,7 +11,7 @@ tags: [fiction,asteroid,swarm,communication]
 
 ---
 
-The swarm... perhaps *The Swarm.* The largest collective of networked entities ever assembled. Why? Initially, they were asteroid miners. The sophistication of the entity network and supply chains of the Mars-Belt corriders prompted a medley of organisations to propose the construction of a massive asteroid-belt-distributed cosmoscope.
+The swarm... perhaps *The Swarm.* The largest collective of networked entities ever assembled. Why? Initially, they were asteroid miners. The sophistication of the entity network and supply chains of the Mars-Belt corridors prompted a medley of organisations to propose the construction of a massive asteroid-belt-distributed cosmoscope.
 
 For the swarm, ground truth has a minimum consensus acceptance threshold, a minimum veracity decay rate and a mininum reconsensualization veracity score. These minima can be adjusted upward per sector, and again per patch, but there is a maximum deviation permitted across overlapping sector and patch regions.
 
