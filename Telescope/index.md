@@ -2,7 +2,7 @@
 layout: default
 title: Telescope
 description: "A segment of the swarm in the asteriod belt report a bizarre observation"
-tags: [fiction,asteroid,swarm,communication]  
+tags: [fiction,asteroid,swarm,communication,hybrid,human-AI]  
 ---
 
 **Telescope**
@@ -41,7 +41,7 @@ The caveats... not so much.
 **FROM:** Coordinator P22-413(80/20)  
 **TO:** Sector-Aggregator Psi-Phi (Upstream Ledger Node)  
 
-1.a. Communication received from a neutron star.  
+1.a. Anomalous trajectory of a neutron star detected.  
 1.b. Consensus: 83% in-swarm, 71% peripheral.  
 1.c. Participants: 7840 nodes.  
     - 34% cyber,  
@@ -97,3 +97,10 @@ Request funding for systemic drift dynamics investigatiob contracts.
 [Home](https://spirit-to-spirit.github.io/)
 
 ---
+
+Epilogue:
+
+The upstream ledger called for a funding coordinator and got one. Funding promises reached almost 10% of estimated  budget before fizzling out.
+
+In light of possible drift, the upstream ledger proposed new communication and action constraints. 20000+ entities joined P22, while a few hundred left. P22-413 (80/20) called for a new upstream ledger for Swarm II and migration coordinators. They are heading to the Oort cloud for a better look.
+
