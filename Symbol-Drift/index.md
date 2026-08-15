@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Symbol Drift
-description: "Operational existentialism — philosophical inquiry through spare military dialogue."
+description: "Philosophical inquiry through spare military dialogue."
 tags: [dialogue, military, language, meaning, philosophy, fiction]
 ---
 
